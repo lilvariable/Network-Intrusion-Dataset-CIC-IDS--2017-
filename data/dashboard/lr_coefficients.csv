@@ -1,0 +1,565 @@
+Feature,Class,Coefficient
+ Destination Port,BENIGN,58.57576194883299
+ Flow Duration,BENIGN,8.177108203537161
+ Total Fwd Packets,BENIGN,8.81457205250641
+Total Length of Fwd Packets,BENIGN,6.46039630347429
+ Fwd Packet Length Max,BENIGN,12.696882803937761
+ Fwd Packet Length Min,BENIGN,13.444806665618318
+ Fwd Packet Length Mean,BENIGN,-2.1459811775547513
+Bwd Packet Length Max,BENIGN,1.438866171170699
+ Bwd Packet Length Min,BENIGN,15.241048009098487
+Flow Bytes/s,BENIGN,5.860337653289867
+ Flow Packets/s,BENIGN,8.355758499735028
+ Flow IAT Mean,BENIGN,-5.875237607235621
+ Flow IAT Std,BENIGN,12.363585148207303
+ Flow IAT Min,BENIGN,17.43558041001666
+ Fwd IAT Min,BENIGN,5.003492010555935
+Bwd IAT Total,BENIGN,9.159413045860695
+ Bwd IAT Mean,BENIGN,-1.3049178023723287
+ Bwd IAT Std,BENIGN,-7.376463798619412
+ Bwd IAT Max,BENIGN,-0.6393612736780906
+Fwd PSH Flags,BENIGN,7.779389269200418
+ Bwd PSH Flags,BENIGN,0.0
+ Fwd URG Flags,BENIGN,0.36573806051821484
+ Bwd URG Flags,BENIGN,0.0
+ Fwd Header Length,BENIGN,0.006239366088327649
+ Bwd Header Length,BENIGN,-0.3190959963910141
+ Bwd Packets/s,BENIGN,-0.7864926919296169
+ Min Packet Length,BENIGN,7.468105533355957
+FIN Flag Count,BENIGN,5.358494299899011
+ RST Flag Count,BENIGN,0.9171577046782322
+ PSH Flag Count,BENIGN,-9.008831505917025
+ ACK Flag Count,BENIGN,-1.0685212526232484
+ URG Flag Count,BENIGN,0.7869403025779309
+ Down/Up Ratio,BENIGN,-0.21397551934043188
+Fwd Avg Bytes/Bulk,BENIGN,0.0
+ Fwd Avg Packets/Bulk,BENIGN,0.0
+ Fwd Avg Bulk Rate,BENIGN,0.0
+ Bwd Avg Bytes/Bulk,BENIGN,0.0
+ Bwd Avg Packets/Bulk,BENIGN,0.0
+Bwd Avg Bulk Rate,BENIGN,0.0
+Init_Win_bytes_forward,BENIGN,0.756251458505217
+ Init_Win_bytes_backward,BENIGN,5.616111035810249
+ act_data_pkt_fwd,BENIGN,3.164112920790991
+ min_seg_size_forward,BENIGN,-0.07701549409465935
+Active Mean,BENIGN,-0.803239696749682
+ Active Std,BENIGN,0.17632339503636266
+ Active Max,BENIGN,18.98208915556914
+ Idle Std,BENIGN,2.73100275240777
+ Destination Port,Bot,58.38376684055951
+ Flow Duration,Bot,-6.947117525485506
+ Total Fwd Packets,Bot,2.5758980781987257
+Total Length of Fwd Packets,Bot,7.5084147428382595
+ Fwd Packet Length Max,Bot,12.901532479286764
+ Fwd Packet Length Min,Bot,0.058378245009543174
+ Fwd Packet Length Mean,Bot,-2.977590374009243
+Bwd Packet Length Max,Bot,-6.473489669331012
+ Bwd Packet Length Min,Bot,14.957146402528135
+Flow Bytes/s,Bot,7.35418459695272
+ Flow Packets/s,Bot,-1.5800157555183076
+ Flow IAT Mean,Bot,0.1168368531823655
+ Flow IAT Std,Bot,-27.119206056581916
+ Flow IAT Min,Bot,-8.373016340612292
+ Fwd IAT Min,Bot,10.103218759993302
+Bwd IAT Total,Bot,21.696976831968325
+ Bwd IAT Mean,Bot,19.549423941689636
+ Bwd IAT Std,Bot,0.44459170552828964
+ Bwd IAT Max,Bot,-8.208104071848634
+Fwd PSH Flags,Bot,-11.06844172778761
+ Bwd PSH Flags,Bot,0.0
+ Fwd URG Flags,Bot,-0.3981912385722921
+ Bwd URG Flags,Bot,0.0
+ Fwd Header Length,Bot,0.04688153520764056
+ Bwd Header Length,Bot,0.09049359801499866
+ Bwd Packets/s,Bot,2.423392540258802
+ Min Packet Length,Bot,16.479485821215896
+FIN Flag Count,Bot,-11.217992617418096
+ RST Flag Count,Bot,-0.7418001750665981
+ PSH Flag Count,Bot,2.4966587971847054
+ ACK Flag Count,Bot,8.037126552053586
+ URG Flag Count,Bot,1.6654892907032106
+ Down/Up Ratio,Bot,-0.5239615916217233
+Fwd Avg Bytes/Bulk,Bot,0.0
+ Fwd Avg Packets/Bulk,Bot,0.0
+ Fwd Avg Bulk Rate,Bot,0.0
+ Bwd Avg Bytes/Bulk,Bot,0.0
+ Bwd Avg Packets/Bulk,Bot,0.0
+Bwd Avg Bulk Rate,Bot,0.0
+Init_Win_bytes_forward,Bot,0.0837187362790023
+ Init_Win_bytes_backward,Bot,5.11772248545819
+ act_data_pkt_fwd,Bot,-4.112626038178448
+ min_seg_size_forward,Bot,0.06142798123706303
+Active Mean,Bot,-1.57567922987667
+ Active Std,Bot,0.12776391489613606
+ Active Max,Bot,-0.5628783503576976
+ Idle Std,Bot,-4.387450556695161
+ Destination Port,DDoS,-7.465528205653318
+ Flow Duration,DDoS,2.6844171577350218
+ Total Fwd Packets,DDoS,3.1095634347915575
+Total Length of Fwd Packets,DDoS,-2.363288971537636
+ Fwd Packet Length Max,DDoS,-33.80914028456515
+ Fwd Packet Length Min,DDoS,6.010018437626922
+ Fwd Packet Length Mean,DDoS,-13.257757791559591
+Bwd Packet Length Max,DDoS,9.105613097349517
+ Bwd Packet Length Min,DDoS,14.843480593357903
+Flow Bytes/s,DDoS,10.391251683079942
+ Flow Packets/s,DDoS,-13.856101320554279
+ Flow IAT Mean,DDoS,2.5462316193462473
+ Flow IAT Std,DDoS,13.386521829864046
+ Flow IAT Min,DDoS,14.772814700430377
+ Fwd IAT Min,DDoS,-11.7662593473242
+Bwd IAT Total,DDoS,-5.112723152775333
+ Bwd IAT Mean,DDoS,-6.26299069506914
+ Bwd IAT Std,DDoS,-1.7741813184857755
+ Bwd IAT Max,DDoS,-2.6527101308496657
+Fwd PSH Flags,DDoS,-7.303167894823293
+ Bwd PSH Flags,DDoS,0.0
+ Fwd URG Flags,DDoS,-0.04422274186364857
+ Bwd URG Flags,DDoS,0.0
+ Fwd Header Length,DDoS,0.007239069955671385
+ Bwd Header Length,DDoS,0.006429736317638851
+ Bwd Packets/s,DDoS,4.4552958563463365
+ Min Packet Length,DDoS,16.72671486281514
+FIN Flag Count,DDoS,4.859917367259467
+ RST Flag Count,DDoS,-0.09423451997106039
+ PSH Flag Count,DDoS,4.906806574643527
+ ACK Flag Count,DDoS,11.964598420830614
+ URG Flag Count,DDoS,-10.42282427642096
+ Down/Up Ratio,DDoS,-0.030028617492151057
+Fwd Avg Bytes/Bulk,DDoS,0.0
+ Fwd Avg Packets/Bulk,DDoS,0.0
+ Fwd Avg Bulk Rate,DDoS,0.0
+ Bwd Avg Bytes/Bulk,DDoS,0.0
+ Bwd Avg Packets/Bulk,DDoS,0.0
+Bwd Avg Bulk Rate,DDoS,0.0
+Init_Win_bytes_forward,DDoS,-6.647953319578798
+ Init_Win_bytes_backward,DDoS,-2.805804504936984
+ act_data_pkt_fwd,DDoS,6.618626119689238
+ min_seg_size_forward,DDoS,0.006438765717867954
+Active Mean,DDoS,8.080529831937854
+ Active Std,DDoS,-1.5434302107857822
+ Active Max,DDoS,4.449252020809898
+ Idle Std,DDoS,3.7133200073457635
+ Destination Port,DoS GoldenEye,-11.301121757766918
+ Flow Duration,DoS GoldenEye,-2.713356943096964
+ Total Fwd Packets,DoS GoldenEye,-6.274974461277846
+Total Length of Fwd Packets,DoS GoldenEye,-8.75792198642664
+ Fwd Packet Length Max,DoS GoldenEye,11.701166023007193
+ Fwd Packet Length Min,DoS GoldenEye,-5.506195012318055
+ Fwd Packet Length Mean,DoS GoldenEye,0.537414552844779
+Bwd Packet Length Max,DoS GoldenEye,4.542708592411872
+ Bwd Packet Length Min,DoS GoldenEye,0.3888785144934867
+Flow Bytes/s,DoS GoldenEye,-5.100921679786921
+ Flow Packets/s,DoS GoldenEye,-10.29810617223916
+ Flow IAT Mean,DoS GoldenEye,20.91936559346232
+ Flow IAT Std,DoS GoldenEye,-11.447738452486723
+ Flow IAT Min,DoS GoldenEye,2.6160827698100695
+ Fwd IAT Min,DoS GoldenEye,0.8935660786618941
+Bwd IAT Total,DoS GoldenEye,15.344253818461228
+ Bwd IAT Mean,DoS GoldenEye,-5.0858632256146965
+ Bwd IAT Std,DoS GoldenEye,-0.052819413107544906
+ Bwd IAT Max,DoS GoldenEye,0.47812840150991076
+Fwd PSH Flags,DoS GoldenEye,-4.276584385263536
+ Bwd PSH Flags,DoS GoldenEye,0.0
+ Fwd URG Flags,DoS GoldenEye,0.027445623122825443
+ Bwd URG Flags,DoS GoldenEye,0.0
+ Fwd Header Length,DoS GoldenEye,-0.00662637228984054
+ Bwd Header Length,DoS GoldenEye,-0.09462993068677938
+ Bwd Packets/s,DoS GoldenEye,-9.977314916209599
+ Min Packet Length,DoS GoldenEye,-8.654672782689106
+FIN Flag Count,DoS GoldenEye,-0.7959706388688116
+ RST Flag Count,DoS GoldenEye,-0.2286461262084488
+ PSH Flag Count,DoS GoldenEye,-2.600689879624772
+ ACK Flag Count,DoS GoldenEye,6.243059033780841
+ URG Flag Count,DoS GoldenEye,1.264981254849761
+ Down/Up Ratio,DoS GoldenEye,-1.3684648262211403
+Fwd Avg Bytes/Bulk,DoS GoldenEye,0.0
+ Fwd Avg Packets/Bulk,DoS GoldenEye,0.0
+ Fwd Avg Bulk Rate,DoS GoldenEye,0.0
+ Bwd Avg Bytes/Bulk,DoS GoldenEye,0.0
+ Bwd Avg Packets/Bulk,DoS GoldenEye,0.0
+Bwd Avg Bulk Rate,DoS GoldenEye,0.0
+Init_Win_bytes_forward,DoS GoldenEye,0.656534842810963
+ Init_Win_bytes_backward,DoS GoldenEye,-10.92659823574885
+ act_data_pkt_fwd,DoS GoldenEye,-6.995150476849265
+ min_seg_size_forward,DoS GoldenEye,0.0002154591274952024
+Active Mean,DoS GoldenEye,10.023815592494383
+ Active Std,DoS GoldenEye,5.104740727242209
+ Active Max,DoS GoldenEye,2.6323140938190166
+ Idle Std,DoS GoldenEye,1.6334121220398288
+ Destination Port,DoS Hulk,-21.938120469275916
+ Flow Duration,DoS Hulk,4.089268615783962
+ Total Fwd Packets,DoS Hulk,0.18907063866018625
+Total Length of Fwd Packets,DoS Hulk,-22.84321998630918
+ Fwd Packet Length Max,DoS Hulk,-3.828930731923838
+ Fwd Packet Length Min,DoS Hulk,3.258321500541226
+ Fwd Packet Length Mean,DoS Hulk,13.534093783949624
+Bwd Packet Length Max,DoS Hulk,5.963821842350328
+ Bwd Packet Length Min,DoS Hulk,3.1737968216864383
+Flow Bytes/s,DoS Hulk,-2.577254505100517
+ Flow Packets/s,DoS Hulk,8.850256789153246
+ Flow IAT Mean,DoS Hulk,3.2881041842106713
+ Flow IAT Std,DoS Hulk,12.083433800915392
+ Flow IAT Min,DoS Hulk,8.223276217160791
+ Fwd IAT Min,DoS Hulk,-13.996471248002992
+Bwd IAT Total,DoS Hulk,-9.195469781066548
+ Bwd IAT Mean,DoS Hulk,-2.4462870750072487
+ Bwd IAT Std,DoS Hulk,-13.381215668024597
+ Bwd IAT Max,DoS Hulk,16.797063374545193
+Fwd PSH Flags,DoS Hulk,-6.472994062675613
+ Bwd PSH Flags,DoS Hulk,0.0
+ Fwd URG Flags,DoS Hulk,0.011535728416186986
+ Bwd URG Flags,DoS Hulk,0.0
+ Fwd Header Length,DoS Hulk,0.0013151938513931668
+ Bwd Header Length,DoS Hulk,-0.004538899438420351
+ Bwd Packets/s,DoS Hulk,-0.5360730679182518
+ Min Packet Length,DoS Hulk,-25.74823151254066
+FIN Flag Count,DoS Hulk,6.740686161608082
+ RST Flag Count,DoS Hulk,-0.13745540269279966
+ PSH Flag Count,DoS Hulk,-7.455534063000366
+ ACK Flag Count,DoS Hulk,2.6665053836891968
+ URG Flag Count,DoS Hulk,-1.5687853203818465
+ Down/Up Ratio,DoS Hulk,0.025888835840050337
+Fwd Avg Bytes/Bulk,DoS Hulk,0.0
+ Fwd Avg Packets/Bulk,DoS Hulk,0.0
+ Fwd Avg Bulk Rate,DoS Hulk,0.0
+ Bwd Avg Bytes/Bulk,DoS Hulk,0.0
+ Bwd Avg Packets/Bulk,DoS Hulk,0.0
+Bwd Avg Bulk Rate,DoS Hulk,0.0
+Init_Win_bytes_forward,DoS Hulk,-1.0110225301275146
+ Init_Win_bytes_backward,DoS Hulk,4.598517291995939
+ act_data_pkt_fwd,DoS Hulk,-2.311884606141928
+ min_seg_size_forward,DoS Hulk,0.004684239846568566
+Active Mean,DoS Hulk,-4.321246224127912
+ Active Std,DoS Hulk,11.58936640811528
+ Active Max,DoS Hulk,0.2552229943766775
+ Idle Std,DoS Hulk,3.485869949428413
+ Destination Port,DoS Slowhttptest,-26.30360213993664
+ Flow Duration,DoS Slowhttptest,22.168951022798414
+ Total Fwd Packets,DoS Slowhttptest,-2.863218974723944
+Total Length of Fwd Packets,DoS Slowhttptest,5.9595286737678705
+ Fwd Packet Length Max,DoS Slowhttptest,2.302666672451621
+ Fwd Packet Length Min,DoS Slowhttptest,13.218272478592443
+ Fwd Packet Length Mean,DoS Slowhttptest,5.348667925972215
+Bwd Packet Length Max,DoS Slowhttptest,2.4112488762573956
+ Bwd Packet Length Min,DoS Slowhttptest,15.178234156946154
+Flow Bytes/s,DoS Slowhttptest,9.58709272168155
+ Flow Packets/s,DoS Slowhttptest,-18.145239846849663
+ Flow IAT Mean,DoS Slowhttptest,21.142700990461957
+ Flow IAT Std,DoS Slowhttptest,-31.06044715072037
+ Flow IAT Min,DoS Slowhttptest,-3.056724118863324
+ Fwd IAT Min,DoS Slowhttptest,8.669158811302504
+Bwd IAT Total,DoS Slowhttptest,-28.127813916896525
+ Bwd IAT Mean,DoS Slowhttptest,11.035139875811725
+ Bwd IAT Std,DoS Slowhttptest,15.475738355207286
+ Bwd IAT Max,DoS Slowhttptest,-13.471141428883515
+Fwd PSH Flags,DoS Slowhttptest,9.046911593988916
+ Bwd PSH Flags,DoS Slowhttptest,0.0
+ Fwd URG Flags,DoS Slowhttptest,-0.1192768398502565
+ Bwd URG Flags,DoS Slowhttptest,0.0
+ Fwd Header Length,DoS Slowhttptest,0.03739753777270762
+ Bwd Header Length,DoS Slowhttptest,0.08748603329773111
+ Bwd Packets/s,DoS Slowhttptest,-5.453515894792468
+ Min Packet Length,DoS Slowhttptest,6.775061621284177
+FIN Flag Count,DoS Slowhttptest,-2.451401140174325
+ RST Flag Count,DoS Slowhttptest,-0.3612516417225578
+ PSH Flag Count,DoS Slowhttptest,2.3219498573543498
+ ACK Flag Count,DoS Slowhttptest,8.985457841782122
+ URG Flag Count,DoS Slowhttptest,2.1611205553580692
+ Down/Up Ratio,DoS Slowhttptest,0.28895279549521946
+Fwd Avg Bytes/Bulk,DoS Slowhttptest,0.0
+ Fwd Avg Packets/Bulk,DoS Slowhttptest,0.0
+ Fwd Avg Bulk Rate,DoS Slowhttptest,0.0
+ Bwd Avg Bytes/Bulk,DoS Slowhttptest,0.0
+ Bwd Avg Packets/Bulk,DoS Slowhttptest,0.0
+Bwd Avg Bulk Rate,DoS Slowhttptest,0.0
+Init_Win_bytes_forward,DoS Slowhttptest,0.007387955903463276
+ Init_Win_bytes_backward,DoS Slowhttptest,5.973382466471543
+ act_data_pkt_fwd,DoS Slowhttptest,-5.112242125897746
+ min_seg_size_forward,DoS Slowhttptest,0.16245981084996172
+Active Mean,DoS Slowhttptest,9.597145045413264
+ Active Std,DoS Slowhttptest,5.638357433949678
+ Active Max,DoS Slowhttptest,1.8215196892602006
+ Idle Std,DoS Slowhttptest,1.8363906594913775
+ Destination Port,DoS slowloris,-17.256821605447357
+ Flow Duration,DoS slowloris,13.526405928106914
+ Total Fwd Packets,DoS slowloris,1.984585416269736
+Total Length of Fwd Packets,DoS slowloris,-5.4639642001068855
+ Fwd Packet Length Max,DoS slowloris,-4.03283023886166
+ Fwd Packet Length Min,DoS slowloris,13.11249448318907
+ Fwd Packet Length Mean,DoS slowloris,7.653812149832833
+Bwd Packet Length Max,DoS slowloris,-3.147212305458702
+ Bwd Packet Length Min,DoS slowloris,-27.506581072835036
+Flow Bytes/s,DoS slowloris,1.1075845858261248
+ Flow Packets/s,DoS slowloris,-0.7170403166349784
+ Flow IAT Mean,DoS slowloris,-5.226457306255184
+ Flow IAT Std,DoS slowloris,2.4195475733674487
+ Flow IAT Min,DoS slowloris,14.599459724475032
+ Fwd IAT Min,DoS slowloris,11.191716730638019
+Bwd IAT Total,DoS slowloris,-19.50104648625963
+ Bwd IAT Mean,DoS slowloris,2.9567678375840964
+ Bwd IAT Std,DoS slowloris,0.6920653696006217
+ Bwd IAT Max,DoS slowloris,8.596198574661257
+Fwd PSH Flags,DoS slowloris,9.754160264626513
+ Bwd PSH Flags,DoS slowloris,0.0
+ Fwd URG Flags,DoS slowloris,-0.2796696062450907
+ Bwd URG Flags,DoS slowloris,0.0
+ Fwd Header Length,DoS slowloris,0.005692984601327415
+ Bwd Header Length,DoS slowloris,-0.04709923070193143
+ Bwd Packets/s,DoS slowloris,1.8129454142804622
+ Min Packet Length,DoS slowloris,-3.992062111252012
+FIN Flag Count,DoS slowloris,-0.5787754833181314
+ RST Flag Count,DoS slowloris,-0.06682925792668815
+ PSH Flag Count,DoS slowloris,-0.14334254115705444
+ ACK Flag Count,DoS slowloris,2.184436768014031
+ URG Flag Count,DoS slowloris,2.9089919811325244
+ Down/Up Ratio,DoS slowloris,1.141816749683853
+Fwd Avg Bytes/Bulk,DoS slowloris,0.0
+ Fwd Avg Packets/Bulk,DoS slowloris,0.0
+ Fwd Avg Bulk Rate,DoS slowloris,0.0
+ Bwd Avg Bytes/Bulk,DoS slowloris,0.0
+ Bwd Avg Packets/Bulk,DoS slowloris,0.0
+Bwd Avg Bulk Rate,DoS slowloris,0.0
+Init_Win_bytes_forward,DoS slowloris,1.3959252450400166
+ Init_Win_bytes_backward,DoS slowloris,4.360465489359682
+ act_data_pkt_fwd,DoS slowloris,3.156368254910518
+ min_seg_size_forward,DoS slowloris,0.029704722952595
+Active Mean,DoS slowloris,7.507905076602455
+ Active Std,DoS slowloris,4.184395583322523
+ Active Max,DoS slowloris,6.175607898826137
+ Idle Std,DoS slowloris,2.2666644673362204
+ Destination Port,FTP-Patator,-23.84486257530379
+ Flow Duration,FTP-Patator,8.039612604832362
+ Total Fwd Packets,FTP-Patator,6.422142095648252
+Total Length of Fwd Packets,FTP-Patator,1.507026738756674
+ Fwd Packet Length Max,FTP-Patator,-17.749764517699308
+ Fwd Packet Length Min,FTP-Patator,-41.02366870568417
+ Fwd Packet Length Mean,FTP-Patator,6.202993799404604
+Bwd Packet Length Max,FTP-Patator,-14.467390608963752
+ Bwd Packet Length Min,FTP-Patator,-25.753504633519526
+Flow Bytes/s,FTP-Patator,-2.4458702127870846
+ Flow Packets/s,FTP-Patator,8.477442546454434
+ Flow IAT Mean,FTP-Patator,-8.285813544340488
+ Flow IAT Std,FTP-Patator,3.402331290810806
+ Flow IAT Min,FTP-Patator,-12.673429607064088
+ Fwd IAT Min,FTP-Patator,-4.40670243931771
+Bwd IAT Total,FTP-Patator,15.53688439819169
+ Bwd IAT Mean,FTP-Patator,-12.230979195618113
+ Bwd IAT Std,FTP-Patator,0.750966342035669
+ Bwd IAT Max,FTP-Patator,-1.8572712086813008
+Fwd PSH Flags,FTP-Patator,9.507310513866104
+ Bwd PSH Flags,FTP-Patator,0.0
+ Fwd URG Flags,FTP-Patator,-0.08754491900518548
+ Bwd URG Flags,FTP-Patator,0.0
+ Fwd Header Length,FTP-Patator,-0.025810599523833376
+ Bwd Header Length,FTP-Patator,0.16989882045124238
+ Bwd Packets/s,FTP-Patator,-0.30375879355007773
+ Min Packet Length,FTP-Patator,-5.795616667216503
+FIN Flag Count,FTP-Patator,2.5065986528541697
+ RST Flag Count,FTP-Patator,0.2947180429944371
+ PSH Flag Count,FTP-Patator,-5.074721809158176
+ ACK Flag Count,FTP-Patator,-0.9826130009264197
+ URG Flag Count,FTP-Patator,0.6289285643756457
+ Down/Up Ratio,FTP-Patator,0.17405248432319334
+Fwd Avg Bytes/Bulk,FTP-Patator,0.0
+ Fwd Avg Packets/Bulk,FTP-Patator,0.0
+ Fwd Avg Bulk Rate,FTP-Patator,0.0
+ Bwd Avg Bytes/Bulk,FTP-Patator,0.0
+ Bwd Avg Packets/Bulk,FTP-Patator,0.0
+Bwd Avg Bulk Rate,FTP-Patator,0.0
+Init_Win_bytes_forward,FTP-Patator,1.0029375195201276
+ Init_Win_bytes_backward,FTP-Patator,0.46426218887998905
+ act_data_pkt_fwd,FTP-Patator,6.080911827466888
+ min_seg_size_forward,FTP-Patator,-0.06336269996809875
+Active Mean,FTP-Patator,-6.7262994207878375
+ Active Std,FTP-Patator,-5.797511665589844
+ Active Max,FTP-Patator,-6.097156026355425
+ Idle Std,FTP-Patator,-2.712401852868701
+ Destination Port,PortScan,58.304262855407295
+ Flow Duration,PortScan,-44.05162374947731
+ Total Fwd Packets,PortScan,-12.69457133325762
+Total Length of Fwd Packets,PortScan,-4.670188696693582
+ Fwd Packet Length Max,PortScan,-8.799878779470086
+ Fwd Packet Length Min,PortScan,8.044021414595209
+ Fwd Packet Length Mean,PortScan,-5.817394888809877
+Bwd Packet Length Max,PortScan,2.203856121215843
+ Bwd Packet Length Min,PortScan,-1.763311671757165
+Flow Bytes/s,PortScan,-5.4911334846698265
+ Flow Packets/s,PortScan,1.4850685421182908
+ Flow IAT Mean,PortScan,-23.63384095303803
+ Flow IAT Std,PortScan,18.54733979983068
+ Flow IAT Min,PortScan,-6.084586318912168
+ Fwd IAT Min,PortScan,14.233200005871113
+Bwd IAT Total,PortScan,-55.726556699393825
+ Bwd IAT Mean,PortScan,23.411946393519564
+ Bwd IAT Std,PortScan,7.98164615450872
+ Bwd IAT Max,PortScan,16.199130827424575
+Fwd PSH Flags,PortScan,-11.23497902335689
+ Bwd PSH Flags,PortScan,0.0
+ Fwd URG Flags,PortScan,0.3447206094278205
+ Bwd URG Flags,PortScan,0.0
+ Fwd Header Length,PortScan,-0.052923125598133315
+ Bwd Header Length,PortScan,-0.1893317215703889
+ Bwd Packets/s,PortScan,6.510652951971126
+ Min Packet Length,PortScan,19.200500266847218
+FIN Flag Count,PortScan,-4.488316945497639
+ RST Flag Count,PortScan,0.4652647176640827
+ PSH Flag Count,PortScan,22.76732555999023
+ ACK Flag Count,PortScan,-31.683631148529095
+ URG Flag Count,PortScan,-14.458310150722836
+ Down/Up Ratio,PortScan,1.4724774879469855
+Fwd Avg Bytes/Bulk,PortScan,0.0
+ Fwd Avg Packets/Bulk,PortScan,0.0
+ Fwd Avg Bulk Rate,PortScan,0.0
+ Bwd Avg Bytes/Bulk,PortScan,0.0
+ Bwd Avg Packets/Bulk,PortScan,0.0
+Bwd Avg Bulk Rate,PortScan,0.0
+Init_Win_bytes_forward,PortScan,1.3420328522769915
+ Init_Win_bytes_backward,PortScan,5.828026658055636
+ act_data_pkt_fwd,PortScan,-2.3179841709723887
+ min_seg_size_forward,PortScan,-0.08081596331935319
+Active Mean,PortScan,5.791124210589855
+ Active Std,PortScan,3.4272814383301875
+ Active Max,PortScan,6.226555495360583
+ Idle Std,PortScan,3.8567999044597214
+ Destination Port,SSH-Patator,-43.16436452434571
+ Flow Duration,SSH-Patator,-2.002847215833303
+ Total Fwd Packets,SSH-Patator,0.5680809308013423
+Total Length of Fwd Packets,SSH-Patator,6.155730762458509
+ Fwd Packet Length Max,SSH-Patator,17.84909959688024
+ Fwd Packet Length Min,SSH-Patator,-2.3307162623511752
+ Fwd Packet Length Mean,SSH-Patator,-8.343109427005075
+Bwd Packet Length Max,SSH-Patator,-5.408737982445963
+ Bwd Packet Length Min,SSH-Patator,-3.8501234167301326
+Flow Bytes/s,SSH-Patator,-12.396285522080845
+ Flow Packets/s,SSH-Patator,7.202377871430913
+ Flow IAT Mean,SSH-Patator,-24.093844431076008
+ Flow IAT Std,SSH-Patator,-8.760790393117304
+ Flow IAT Min,SSH-Patator,-10.862989653335731
+ Fwd IAT Min,SSH-Patator,0.7237695028858304
+Bwd IAT Total,SSH-Patator,25.63371346541393
+ Bwd IAT Mean,SSH-Patator,-15.048788442735711
+ Bwd IAT Std,SSH-Patator,0.9291557931471166
+ Bwd IAT Max,SSH-Patator,1.0716283256439494
+Fwd PSH Flags,SSH-Patator,8.15808117170382
+ Bwd PSH Flags,SSH-Patator,0.0
+ Fwd URG Flags,SSH-Patator,0.11985650040879432
+ Bwd URG Flags,SSH-Patator,0.0
+ Fwd Header Length,SSH-Patator,-0.020932051008891884
+ Bwd Header Length,SSH-Patator,0.37219242093836113
+ Bwd Packets/s,SSH-Patator,0.12517093253404565
+ Min Packet Length,SSH-Patator,-5.345496711558783
+FIN Flag Count,SSH-Patator,2.873125566195212
+ RST Flag Count,SSH-Patator,0.15842452482731995
+ PSH Flag Count,SSH-Patator,-7.373868631806387
+ ACK Flag Count,SSH-Patator,-2.191938898167673
+ URG Flag Count,SSH-Patator,2.423264248098186
+ Down/Up Ratio,SSH-Patator,0.6365936072794867
+Fwd Avg Bytes/Bulk,SSH-Patator,0.0
+ Fwd Avg Packets/Bulk,SSH-Patator,0.0
+ Fwd Avg Bulk Rate,SSH-Patator,0.0
+ Bwd Avg Bytes/Bulk,SSH-Patator,0.0
+ Bwd Avg Packets/Bulk,SSH-Patator,0.0
+Bwd Avg Bulk Rate,SSH-Patator,0.0
+Init_Win_bytes_forward,SSH-Patator,0.2606637323424873
+ Init_Win_bytes_backward,SSH-Patator,-29.068591841090043
+ act_data_pkt_fwd,SSH-Patator,8.93312106496042
+ min_seg_size_forward,SSH-Patator,-0.05017062945776778
+Active Mean,SSH-Patator,-17.611659690350837
+ Active Std,SSH-Patator,-20.02480475405307
+ Active Max,SSH-Patator,-26.396000069472095
+ Idle Std,SSH-Patator,-11.055286344971709
+ Destination Port,Web Attack - Brute Force,-8.128555187338526
+ Flow Duration,Web Attack - Brute Force,-1.679288599641262
+ Total Fwd Packets,Web Attack - Brute Force,7.860915833298983
+Total Length of Fwd Packets,Web Attack - Brute Force,8.43995531136757
+ Fwd Packet Length Max,Web Attack - Brute Force,9.559742881705054
+ Fwd Packet Length Min,Web Attack - Brute Force,-2.853498604490052
+ Fwd Packet Length Mean,Web Attack - Brute Force,-0.39773476773904526
+Bwd Packet Length Max,Web Attack - Brute Force,0.6414386588631652
+ Bwd Packet Length Min,Web Attack - Brute Force,-1.6720078523892457
+Flow Bytes/s,Web Attack - Brute Force,-2.9584679399457854
+ Flow Packets/s,Web Attack - Brute Force,2.792997076464241
+ Flow IAT Mean,Web Attack - Brute Force,17.89295559195245
+ Flow IAT Std,Web Attack - Brute Force,3.9847652442372543
+ Flow IAT Min,Web Attack - Brute Force,-10.804520221738416
+ Fwd IAT Min,Web Attack - Brute Force,-13.153448270947072
+Bwd IAT Total,Web Attack - Brute Force,11.959807392860718
+ Bwd IAT Mean,Web Attack - Brute Force,1.9146144613782188
+ Bwd IAT Std,Web Attack - Brute Force,-2.2242827845018427
+ Bwd IAT Max,Web Attack - Brute Force,-12.532997286806305
+Fwd PSH Flags,Web Attack - Brute Force,-1.8982864009112936
+ Bwd PSH Flags,Web Attack - Brute Force,0.0
+ Fwd URG Flags,Web Attack - Brute Force,0.05890508226764935
+ Bwd URG Flags,Web Attack - Brute Force,0.0
+ Fwd Header Length,Web Attack - Brute Force,0.0042584693168802685
+ Bwd Header Length,Web Attack - Brute Force,0.00571979057457951
+ Bwd Packets/s,Web Attack - Brute Force,1.588062442001704
+ Min Packet Length,Web Attack - Brute Force,-5.4776442891426305
+FIN Flag Count,Web Attack - Brute Force,-2.2213230906052632
+ RST Flag Count,Web Attack - Brute Force,-0.14796167945495234
+ PSH Flag Count,Web Attack - Brute Force,4.360608461617528
+ ACK Flag Count,Web Attack - Brute Force,-6.6694490283602095
+ URG Flag Count,Web Attack - Brute Force,13.708332035871061
+ Down/Up Ratio,Web Attack - Brute Force,-0.25366775611921144
+Fwd Avg Bytes/Bulk,Web Attack - Brute Force,0.0
+ Fwd Avg Packets/Bulk,Web Attack - Brute Force,0.0
+ Fwd Avg Bulk Rate,Web Attack - Brute Force,0.0
+ Bwd Avg Bytes/Bulk,Web Attack - Brute Force,0.0
+ Bwd Avg Packets/Bulk,Web Attack - Brute Force,0.0
+Bwd Avg Bulk Rate,Web Attack - Brute Force,0.0
+Init_Win_bytes_forward,Web Attack - Brute Force,1.136814299145086
+ Init_Win_bytes_backward,Web Attack - Brute Force,5.187700983066211
+ act_data_pkt_fwd,Web Attack - Brute Force,1.5290466019688707
+ min_seg_size_forward,Web Attack - Brute Force,-0.007139933077957591
+Active Mean,Web Attack - Brute Force,-4.925824706150099
+ Active Std,Web Attack - Brute Force,-1.1071584312824465
+ Active Max,Web Attack - Brute Force,-3.500138627623832
+ Idle Std,Web Attack - Brute Force,-0.35241690422989325
+ Destination Port,Web Attack - XSS,-15.86081518041926
+ Flow Duration,Web Attack - XSS,-1.2915295001508476
+ Total Fwd Packets,Web Attack - XSS,-9.692063710949661
+Total Length of Fwd Packets,Web Attack - XSS,8.067531307905108
+ Fwd Packet Length Max,Web Attack - XSS,1.2094540948474075
+ Fwd Packet Length Min,Web Attack - XSS,-5.432234640444371
+ Fwd Packet Length Mean,Web Attack - XSS,-0.3374137861239672
+Bwd Packet Length Max,Web Attack - XSS,3.189277205841642
+ Bwd Packet Length Min,Web Attack - XSS,-3.237055851254556
+Flow Bytes/s,Web Attack - XSS,-3.3305178970423595
+ Flow Packets/s,Web Attack - XSS,7.432602085906694
+ Flow IAT Mean,Web Attack - XSS,1.2089990084442883
+ Flow IAT Std,Web Attack - XSS,12.20065736469074
+ Flow IAT Min,Web Attack - XSS,-5.791947561864475
+ Fwd IAT Min,Web Attack - XSS,-7.495240595427325
+Bwd IAT Total,Web Attack - XSS,18.33256108263202
+ Bwd IAT Mean,Web Attack - XSS,-16.48806607579942
+ Bwd IAT Std,Web Attack - XSS,-1.4652007405008842
+ Bwd IAT Max,Web Attack - XSS,-3.7805641043368325
+Fwd PSH Flags,Web Attack - XSS,-1.991399320193626
+ Bwd PSH Flags,Web Attack - XSS,0.0
+ Fwd URG Flags,Web Attack - XSS,0.0007037413536265147
+ Bwd URG Flags,Web Attack - XSS,0.0
+ Fwd Header Length,Web Attack - XSS,-0.0027320083705586746
+ Bwd Header Length,Web Attack - XSS,-0.07752462080274958
+ Bwd Packets/s,Web Attack - XSS,0.1416352265872646
+ Min Packet Length,Web Attack - XSS,-11.636144031623514
+FIN Flag Count,Web Attack - XSS,-0.5850421323499975
+ RST Flag Count,Web Attack - XSS,-0.05738618715092454
+ PSH Flag Count,Web Attack - XSS,-5.1963608203717575
+ ACK Flag Count,Web Attack - XSS,2.5149693271596334
+ URG Flag Count,Web Attack - XSS,0.9018715127335606
+ Down/Up Ratio,Web Attack - XSS,-1.349683649240576
+Fwd Avg Bytes/Bulk,Web Attack - XSS,0.0
+ Fwd Avg Packets/Bulk,Web Attack - XSS,0.0
+ Fwd Avg Bulk Rate,Web Attack - XSS,0.0
+ Bwd Avg Bytes/Bulk,Web Attack - XSS,0.0
+ Bwd Avg Packets/Bulk,Web Attack - XSS,0.0
+Bwd Avg Bulk Rate,Web Attack - XSS,0.0
+Init_Win_bytes_forward,Web Attack - XSS,1.016709207336125
+ Init_Win_bytes_backward,Web Attack - XSS,5.654805978307581
+ act_data_pkt_fwd,Web Attack - XSS,-8.632299371792614
+ min_seg_size_forward,Web Attack - XSS,0.013573740191581462
+Active Mean,Web Attack - XSS,-5.03657079041099
+ Active Std,Web Attack - XSS,-1.775323841138582
+ Active Max,Web Attack - XSS,-3.986388275712569
+ Idle Std,Web Attack - XSS,-1.0159042047693396
