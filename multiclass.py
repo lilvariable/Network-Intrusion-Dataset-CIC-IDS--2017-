@@ -205,4 +205,4 @@ st.dataframe(
     display_df[['True_Label', 'RF_Prediction', 'Correct']].head(500),
     use_container_width=True
 )
-st.caption(f"Showing {min(500, len(display_df))} of {len(display_df):,} rows")
+st.caption(f"Showing {min(500, len(display_df))} of {len(display_df)} rows")
